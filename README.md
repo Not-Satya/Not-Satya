@@ -7,11 +7,9 @@
 
 - 👯 I’m looking to collaborate on **systems, security & hackathon projects**
 
-- 🤝 I’m looking for help with **OS development & low-level systems**
-
 - 👨‍💻 All of my projects are available at [Not-Satya](https://github.com/Not-Satya)
 
-- 💬 Ask me about **C++, Python, Git, Linux, competitive programming**
+- 💬 Mostly into **C++, Python, Git, Linux, competitive programming**
 
 - 📫 How to reach me **satyaiseverywhere@gmail.com**
 
