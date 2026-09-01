@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **OS development & low-level systems**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Not-Satya](https://github.com/Not-Satya)
+- 👨‍💻 All of my projects are available at [Not-Satya](https://github.com/Not-Satya)
 
 - 💬 Ask me about **C++, Python, Git, Linux, competitive programming**
 
