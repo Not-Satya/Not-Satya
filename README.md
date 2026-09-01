@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Offline-first Sync Engine](https://github.com/Not-Satya/sync_engine)
 
-- 🌱 I’m currently learning **Operating Systems, DBMS, OOPs & systems programming**
+- 🌱 I’m currently learning **Operating Systems, systems programming & building**
 
 - 👯 I’m looking to collaborate on **systems, security & hackathon projects**
 
